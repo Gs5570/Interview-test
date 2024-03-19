@@ -13,13 +13,15 @@ The Goal is to convert this into a single page response site. The carousel shoul
 
 ## Installation
 
-1. **Navigate to the project Directory:**:
+1. **Clone Directory from git, repo-url < https://github.com/Gs5570/Interview-test.git > :**:
+   `git clone <repository-url>`
+2. **Navigate to the project Directory:**:
    `cd skill-test`
-2. **Install Dependencies:**:
+3. **Install Dependencies:**:
    `npm install`
-3. **To Start and run the project in development:**:
+4. **To Start and run the project in development:**:
    `npm run dev`
-4. **To Start and run the project build localy:**:
+5. **To Start and run the project build localy:**:
    `npm run serve`
 
 ## Folder Structure
