@@ -19,10 +19,8 @@ The Goal is to convert this into a single page response site. The carousel shoul
    `cd skill-test`
 3. **Install Dependencies:**:
    `npm install`
-4. **To Start and run the project in development:**:
+4. **To Start and run the project localy:**:
    `npm run dev`
-5. **To Start and run the project build localy:**:
-   `npm run serve`
 
 ## Folder Structure
 
