@@ -1,0 +1,21 @@
+.home-container {
+  background-image: url('/media/LaBanner2.png');
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  width: 100vw;
+
+  /* resize: horizontal; */
+  /* overflow: hidden; */
+
+  height: 100vh;
+}
+
+.home-container h1 {
+  margin: 0;
+}
+
+.home-container {
+  display: inline-grid;
+  grid-template-rows: 100% 100% 100% 100%;
+  width: 100%;
+}

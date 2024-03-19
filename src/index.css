@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+@media only screen and (max-width: 2565px) {
+  .team-climb-section {
+    width: 65%;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 1440px) {
+  .team-climb-section {
+    width: 65%;
+  }
+}
+/* Largest devices such as desktops (1280px and down) */
+@media only screen and (max-width: 1280px) {
+  .team-climb-section {
+    width: 65%;
+  }
+}
+
+/* Large devices such as laptops (1024px and down) */
+@media only screen and (max-width: 1024px) {
+  .team-climb-section {
+    width: 65%;
+  }
+}
+/* Medium devices such as tablets (768px and down) */
+@media only screen and (max-width: 768px) {
+  .team-climb-section {
+    /* width: 65%; */
+  }
+  a:visited {
+    color: rgba(65, 79, 107, 0.85);
+  }
+  a {
+    color: rgba(65, 79, 107, 0.85);
+  }
+}
+
+/* iphone 14 pro max */
+@media only screen and (max-width: 430px) {
+  .home-container {
+    width: 400px;
+  }
+  header-container {
+    justify-content: flex-start;
+  }
+
+  .navigation-bar-container {
+    width: 100%;
+    justify-content: space-around;
+  }
+}
+
+/* Small devices such as large phones (425px and down) */
+@media only screen and (max-width: 425px) {
+  .header-container {
+    justify-content: flex-start;
+  }
+
+  .text-container {
+    width: 100%;
+  }
+  .team-climb-section {
+    width: 100%;
+  }
+  .home-container {
+    width: 500px;
+  }
+}
+/* Samsung Galaxy s20 ultra */
+@media only screen and (max-width: 412px) {
+  .home-container {
+    width: 500px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .home-container {
+    width: 400px;
+    margin: 10px;
+  }
+}
+
+/* iphone 12 pro max */
+@media only screen and (max-width: 390px) {
+  .home-container {
+    width: 500px;
+  }
+}
+
+/* .header-container {
+    background-color: white;
+  }
+  .menu-container li {
+    list-style-type: none;
+    font-weight: bold;
+    color: black;
+  } */
+/* a:visited {
+    color: rgba(65, 79, 107, 0.85);
+  }
+  a {
+    color: white;
+  }
+} */

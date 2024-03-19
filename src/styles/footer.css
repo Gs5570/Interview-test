@@ -1,0 +1,14 @@
+.footer-menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 65%;
+  align-items: center;
+  height: 100%;
+}
+
+.footer-container {
+  background-color: rgba(65, 79, 107, 0.85);
+  height: 100%;
+}

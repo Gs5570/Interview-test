@@ -1,0 +1,31 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* margin-top: 10px; */
+}
+
+.navigation-bar-container {
+  display: flex;
+  flex-direction: row;
+  width: 65%;
+  justify-content: space-between;
+}
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.menu-container li {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+a:hover {
+  font-size: 18px;
+}
+
+a:visited {
+  color: white;
+}

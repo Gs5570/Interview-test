@@ -1,0 +1,48 @@
+.react-multi-carousel-track {
+}
+
+.carousel-container {
+  background-color: rgba(65, 79, 107, 0.85);
+}
+.react-multi-carousel-list {
+  background-color: rgba(65, 79, 107, 0.85);
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  /* gap: 10px; */
+}
+.react-multi-carousel-item {
+  /* gap: 10px; */
+  /* width: 280px; */
+  /* width: fit-content; */
+}
+
+li {
+  /* width: 300px !important; */
+}
+.carousel-slider {
+  /* overflow: hidden; */
+  /* padding-top: 10px; */
+  gap: 20px;
+}
+.carousel-item {
+  /* gap: 10px; */
+  /* width: fit-content; */
+}
+/* .react-multi-carousel-list {
+  padding: 0rem 0 2rem 0;
+  background-color: rgba(65, 79, 107, 0.85);
+  width: 100%;
+}
+
+.react-multi-carousel-item {
+  padding: 0;
+  width: 200px;
+}
+
+ul.react-multi-carousel-track li:nth-child(1) .ant-card:nth-child(1) {
+  margin-left: 20px;
+}
+ul.react-multi-carousel-track .ant-card {
+  margin: 0 5px;
+} */
