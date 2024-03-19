@@ -4,6 +4,10 @@ This project was an interview skill test to showcase skills in buildling a Singl
 
 The Goal is to convert this into a single page response site. The carousel should be responsive. On mobile, the tabs should be converted to an accordion. History, team - these are internal links in the page to their respective sections.
 
+## Live website:
+
+https://interviewcode.netlify.app/
+
 ## Technologies:
 
 1. React js,
